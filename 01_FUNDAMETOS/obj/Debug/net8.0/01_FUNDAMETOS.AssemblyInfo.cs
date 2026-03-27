@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01_FUNDAMETOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37d7888a0a88e342ea2c74104b89054cb5b44a47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a0685ff5fca397dbaa1cc1ef6657af57f60e14a")]
 [assembly: System.Reflection.AssemblyProductAttribute("01_FUNDAMETOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01_FUNDAMETOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
