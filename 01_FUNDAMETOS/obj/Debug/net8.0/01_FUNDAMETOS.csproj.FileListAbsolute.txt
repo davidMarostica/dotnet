@@ -1,0 +1,15 @@
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/bin/Debug/net8.0/01_FUNDAMETOS
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/bin/Debug/net8.0/01_FUNDAMETOS.deps.json
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/bin/Debug/net8.0/01_FUNDAMETOS.runtimeconfig.json
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/bin/Debug/net8.0/01_FUNDAMETOS.dll
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/bin/Debug/net8.0/01_FUNDAMETOS.pdb
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/obj/Debug/net8.0/01_FUNDAMETOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/obj/Debug/net8.0/01_FUNDAMETOS.AssemblyInfoInputs.cache
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/obj/Debug/net8.0/01_FUNDAMETOS.AssemblyInfo.cs
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/obj/Debug/net8.0/01_FUNDAMETOS.csproj.CoreCompileInputs.cache
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/obj/Debug/net8.0/01_FUNDAMETOS.sourcelink.json
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/obj/Debug/net8.0/01_FUNDAMETOS.dll
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/obj/Debug/net8.0/refint/01_FUNDAMETOS.dll
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/obj/Debug/net8.0/01_FUNDAMETOS.pdb
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/obj/Debug/net8.0/01_FUNDAMETOS.genruntimeconfig.cache
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/01_FUNDAMETOS/obj/Debug/net8.0/ref/01_FUNDAMETOS.dll
