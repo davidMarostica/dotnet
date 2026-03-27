@@ -1,0 +1,15 @@
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/bin/Debug/net8.0/02_TIPODEDADOS
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/bin/Debug/net8.0/02_TIPODEDADOS.deps.json
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/bin/Debug/net8.0/02_TIPODEDADOS.runtimeconfig.json
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/bin/Debug/net8.0/02_TIPODEDADOS.dll
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/bin/Debug/net8.0/02_TIPODEDADOS.pdb
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/obj/Debug/net8.0/02_TIPODEDADOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/obj/Debug/net8.0/02_TIPODEDADOS.AssemblyInfoInputs.cache
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/obj/Debug/net8.0/02_TIPODEDADOS.AssemblyInfo.cs
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/obj/Debug/net8.0/02_TIPODEDADOS.csproj.CoreCompileInputs.cache
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/obj/Debug/net8.0/02_TIPODEDADOS.sourcelink.json
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/obj/Debug/net8.0/02_TIPODEDADOS.dll
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/obj/Debug/net8.0/refint/02_TIPODEDADOS.dll
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/obj/Debug/net8.0/02_TIPODEDADOS.pdb
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/obj/Debug/net8.0/02_TIPODEDADOS.genruntimeconfig.cache
+/home/david/Área de Trabalho/dotnet/EXEMPLOFUDAMENTOS/dotnet/02_TIPODEDADOS/obj/Debug/net8.0/ref/02_TIPODEDADOS.dll
