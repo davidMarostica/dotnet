@@ -39,4 +39,3 @@ else
 {
     Console.WriteLine("Vamos ficar em casa.");
 }
-
