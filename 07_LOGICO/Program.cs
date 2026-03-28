@@ -26,3 +26,17 @@ else
 {
     Console.WriteLine("Aluno reprovado.");
 }
+
+//Operador Lógico ! (NOT) inverte o valor lógico de uma expressão
+bool choveu = false;
+bool estaTarde = false;
+
+if (!choveu && estaTarde)
+{
+    Console.WriteLine("Vamos ao parque!");
+}
+else
+{
+    Console.WriteLine("Vamos ficar em casa.");
+}
+
