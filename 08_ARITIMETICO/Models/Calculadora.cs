@@ -50,21 +50,21 @@ namespace _08_ARITIMETICO.Models
         {
             double radianos = angulo * (Math.PI / 180);
             double seno = Math.Sin(radianos);
-            Console.WriteLine($"Seno de {angulo}° = {seno}");
+            Console.WriteLine($"Seno de {angulo}° = {Math.Round(seno, 4)}");
         }
 
         public void Coseno(double angulo)
         {
             double radianos = angulo * (Math.PI / 180);
             double coseno = Math.Cos(radianos);
-            Console.WriteLine($"Cosseno de {angulo}° = {coseno}");
+            Console.WriteLine($"Cosseno de {angulo}° = {Math.Round(coseno, 4)}");
         }
 
         public void Tangente(double angulo)
         {
             double radianos = angulo * (Math.PI / 180);
             double tangente = Math.Tan(radianos);
-            Console.WriteLine($"Tangente de {angulo}° = {tangente}");
+            Console.WriteLine($"Tangente de {angulo}° = {Math.Round(tangente, 4)}");
         }
     }
 }
