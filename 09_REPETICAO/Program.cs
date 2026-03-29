@@ -35,3 +35,5 @@ using _09_REPETICAO.Models;
     numero = Convert.ToInt32(Console.ReadLine());
     soma += numero;
   } while (numero != 0);
+
+  Console.WriteLine($"A soma dos números digitados é: {soma}");
