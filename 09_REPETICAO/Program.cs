@@ -1,4 +1,5 @@
 ﻿
+using System.Globalization;
 using _09_REPETICAO.Models;
 
 // for (inicialização; condição; incremento)
@@ -27,13 +28,48 @@ using _09_REPETICAO.Models;
 //   }
 //   }
 
+ // Do-While (condição)
+  //  int soma = 0, numero = 0;
+  // do
+  // {
+  //   Console.WriteLine("Digite um número (0 para sair): ");
+  //   numero = Convert.ToInt32(Console.ReadLine());
+  //   soma += numero;
+  // } while (numero != 0);
 
-   int soma = 0, numero = 0;
-  do
+  // Console.WriteLine($"A soma dos números digitados é: {soma}");
+
+
+String opcao;
+
+while(true)
+{
+  Console.WriteLine("Digite sua opção:");
+  Console.WriteLine("1 - Cadastrar cliente");
+  Console.WriteLine("2 - Buscar clientes"); 
+  Console.WriteLine("3 - Apagar cliente");
+  Console.WriteLine("4 - Sair"); 
+
+  opcao = Console.ReadLine();
+
+  switch (opcao)
   {
-    Console.WriteLine("Digite um número (0 para sair): ");
-    numero = Convert.ToInt32(Console.ReadLine());
-    soma += numero;
-  } while (numero != 0);
+    case "1":
+      Console.WriteLine("Cadastro de cliente selecionado.");
+      break;
+    case "2":
+      Console.WriteLine("Busca de clientes selecionada.");
+      break;
+    case "3":
+      Console.WriteLine("Apagar cliente selecionado.");
+      break;
+    case "4":
+      Console.WriteLine("Saindo do programa...");
+      return; // Encerra o programa
+    default:
+      Console.WriteLine("Opção inválida. Por favor, tente novamente.");
+      break;
+  }
+ 
+}
 
-  Console.WriteLine($"A soma dos números digitados é: {soma}");
