@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
@@ -25,6 +25,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_FOR", "09_REPETICAO\09_FOR.csproj", "{84EE6B59-6EF4-CF2D-B5E8-761FDCD3AFAB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_OPERADORESARITIMETICOS", "04_OPERADORESARITIMETRICOS\04_OPERADORESARITIMETICOS.csproj", "{FC449F52-A19F-E558-F0C0-8558746FA918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemplosFundademtos.Commom", "ExemplosFundademtos.Commom\ExemplosFundademtos.Commom.csproj", "{E2E89046-ADED-4460-82E5-81A7E1C18071}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -72,6 +74,10 @@ Global
 		{FC449F52-A19F-E558-F0C0-8558746FA918}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC449F52-A19F-E558-F0C0-8558746FA918}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC449F52-A19F-E558-F0C0-8558746FA918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E89046-ADED-4460-82E5-81A7E1C18071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E89046-ADED-4460-82E5-81A7E1C18071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E89046-ADED-4460-82E5-81A7E1C18071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E89046-ADED-4460-82E5-81A7E1C18071}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
