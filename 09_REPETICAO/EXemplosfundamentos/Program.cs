@@ -1,6 +1,6 @@
 ﻿
 using System.Globalization;
-using _09_REPETICAO.Models;
+using _09_REPETICAO.Common.Models;
 
 // for (inicialização; condição; incremento)
 // Console.WriteLine("-------------Tabuada do 10-------------");
@@ -50,7 +50,9 @@ while(true)
   Console.WriteLine("3 - Apagar cliente");
   Console.WriteLine("4 - Sair"); 
 
-  opcao = Console.ReadLine();
+  
+
+  opcao = Console.ReadLine() ?? "";
 
   switch (opcao)
   {
