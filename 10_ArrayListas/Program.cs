@@ -26,3 +26,22 @@ Console.WriteLine("\nArray com foreach:");
         Console.WriteLine("Posição: N {0} - Valor: {1}", contadorForeach, valor);
         contadorForeach++;
     }
+
+
+    List<string> listaString = new List<string>();
+    
+    listaString.Add("São Paulo");
+    listaString.Add("Rio de Janeiro");
+    listaString.Add("Belo Horizonte");
+    Console.WriteLine("\nLista de cidades:");
+    for (int contador = 0; contador < listaString.Count; contador++)
+    {
+        Console.WriteLine($"Posição: N {contador} - Valor: {listaString[contador]}");
+    } 
+
+    int contadorForeachLista = 0;
+     Console.WriteLine("\nLista de cidades com foreach:");
+    foreach (string cidade in listaString)
+    {
+        Console.WriteLine($"Valor: {cidade}");
+    }
